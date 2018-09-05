@@ -1,0 +1,13 @@
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\bin\Debug\SpotifyNewUI.exe.config
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\bin\Debug\SpotifyNewUI.exe
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\bin\Debug\SpotifyNewUI.pdb
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.Form1.resources
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.Properties.Resources.resources
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.csproj.GenerateResource.Cache
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.csproj.CoreCompileInputs.cache
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.exe
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.pdb
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.player.resources
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.recent.resources
+C:\Users\geomi\source\repos\SpotifyNewUI\SpotifyNewUI\obj\Debug\SpotifyNewUI.csprojResolveAssemblyReference.cache
